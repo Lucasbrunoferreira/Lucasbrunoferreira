@@ -8,3 +8,4 @@
 - 👨‍💻 Currently work for the company [Oficina5](http://www.oficina5.com.br/).
 - 👨‍🎓 Student of the last period of the Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - ⚡ Currently focused on JavaScript and its ecosystem.
+- Focused on my course completion project. [Rankthon](https://github.com/users/Lucasbrunoferreira/projects/1)
