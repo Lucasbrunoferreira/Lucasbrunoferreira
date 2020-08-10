@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=lucasbrunoferreira" alt="lucasbrunoferreira" />
 
 
-- 👨‍💻 Currently work for the company [Oficina5](http://www.oficina5.com.br/).
+- 👨‍💻 Currently work for the company [Zup Innovation](https://www.zup.com.br/).
 - 👨‍🎓 Student of the last period of the Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - 👷 Focused on my course completion project: [Rankeer](https://github.com/users/Lucasbrunoferreira/projects/1)
 - 👨‍🚀 Navigating and discovering the JavaScript ecosystem
