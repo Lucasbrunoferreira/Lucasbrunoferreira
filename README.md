@@ -8,4 +8,4 @@
 
 - 👨‍💻 Currently work for the company [Zup Innovation](https://www.zup.com.br/).
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
-- 👨‍🚀 Navigating and discovering the JavaScript ecosystem
+- 👨‍🚀 Navigating and discovering the JavaScript and Golang ecosystem
