@@ -9,4 +9,4 @@
 - 👨‍💻 Currently work for the company [Zup Innovation](https://www.zup.com.br/).
 - ‍💻 Github professional profile: [lucasbrunozup](https://github.com/lucasbrunozup)
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
-- 👨‍🚀 Navigating and discovering the JavaScript ecosystem
+- ❤️ Lover of the Javascript universe
