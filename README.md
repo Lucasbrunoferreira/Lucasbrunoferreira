@@ -13,6 +13,6 @@
 
 
 
-🔓 Main projects that work:
+**Main projects that work**:
 -  [Horusec](https://github.com/zupit/horusec-platform).
 -  Yaje - [Web](https://yaje.com.br/), [Android](https://play.google.com/store/apps/details?id=com.yajeapp.Yaje) and [IOS](https://apps.apple.com/br/app/yaje/id1615080596)  
