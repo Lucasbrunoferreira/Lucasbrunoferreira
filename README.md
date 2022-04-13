@@ -10,3 +10,9 @@
 - ‍💻 Github professional profile: [lucasbrunozup](https://github.com/lucasbrunozup)
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - ❤️ Lover of the Javascript universe
+
+
+
+🔓 Main projects that work:
+-  [Horusec](https://github.com/zupit/horusec-platform).
+-  Yaje - [Web](https://yaje.com.br/), [Android](https://play.google.com/store/apps/details?id=com.yajeapp.Yaje) and [IOS](https://apps.apple.com/br/app/yaje/id1615080596)  
