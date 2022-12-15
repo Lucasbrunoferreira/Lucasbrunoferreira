@@ -6,7 +6,8 @@
 
 
 - 👨‍💻 Currently work for the company [Zup Innovation](https://www.zup.com.br/).
-- ‍💻 Github professional profile: [lucasbrunozup](https://github.com/lucasbrunozup)
+- ‍💻 Github professional Zup: [lucasbrunozup](https://github.com/lucasbrunozup)
+- - ‍💻 Github professional Itaú Ubibanco: [LCBRFRR_itau](https://github.com/LCBRFRR_itau)
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - ❤️ Lover of the Javascript universe
 
