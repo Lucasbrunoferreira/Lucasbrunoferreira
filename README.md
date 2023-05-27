@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/-@lucasbrunoferreira-e1306c?style=flat-square&labelColor=e1306c&logo=instagram&logoColor=white&link=https://www.instagram.com/lucasbrunoferreira/)](https://www.instagram.com/lucasbrunoferreira/)
 
 
-- 👨‍💻 Currently work for the company [Zup Innovation](https://www.zup.com.br/).
+- 👨‍💻 Currently work for [Itau](https://github.com/itau) by the company [Zup Innovation](https://www.zup.com.br/).
 - ‍💻 Github professional Zup: [lucasbrunozup](https://github.com/lucasbrunozup)
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - ❤️ Lover of the Javascript universe
