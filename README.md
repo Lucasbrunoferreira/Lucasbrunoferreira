@@ -6,7 +6,6 @@
 
 
 - 👨‍💻 Currently work for [Itau](https://github.com/itau) by the company [Zup Innovation](https://www.zup.com.br/).
-- ‍💻 Github professional Zup: [lucasbrunozup](https://github.com/lucasbrunozup)
 - 👨‍🎓 Graduated in Information Systems course - [UNIPAM](https://graduacao.unipam.edu.br/curso.php?id=MTQ=).
 - ❤️ Lover of the Javascript universe
 
