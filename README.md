@@ -12,6 +12,7 @@
 
 
 **Main projects that work**:
+- [Finns](https://finns.app)
 - [Forense](https://questoes.clubeforense.com.br/)
 - [Horusec](https://github.com/zupit/horusec-platform).
 - Yaje - [Web](https://yaje.com.br/), [Android](https://play.google.com/store/apps/details?id=com.yajeapp.Yaje) and [IOS](https://apps.apple.com/br/app/yaje/id1615080596)  
